@@ -1,6 +1,10 @@
 # PDF-Tool
 #Convert PDF into Images & Print (8 PDF Pages in one sheet)
 
+How to use It
+ Download the Zip file from the below link and extract to your local computer. 
+ https://github.com/vijayanmmm/PDF-Tool/tree/master/Releases
+
 Convert PDF files into Images.
 1. Put all PDF files in a folder.
 2. Then create a folder for “converted Images”
